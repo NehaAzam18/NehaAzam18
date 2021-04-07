@@ -1,6 +1,6 @@
 Hey 👋🏽, I'm [Neha Azam!]
 - 👋 Hi, I’m @NehaAzam18, And undergraduate Software Engineering student from @UIT with Software Development skills from Pakistan, currently I am Internee 💼@MERL-UIT 
-- 👀 I’m always insearch of learning new things to develop skills
+- 👀 I’m always interested in learning new skills, and experience
 - 💻 I’m currently working on RISC-V
 - 🌱 I’m currently learning new thing like Artificial Intelligence
 - 📫 How to reach me: nehaurooj123@gmail.com
